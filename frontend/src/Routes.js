@@ -1,4 +1,6 @@
-import LoginPage from "../src/pages/Login.jsx"
+import LoginPage from "../src/pages/Login"
+import SignUpPage from "../src/pages/SignUp"
 export {
-    LoginPage
+    LoginPage,
+    SignUpPage
 }
